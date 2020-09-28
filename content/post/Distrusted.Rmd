@@ -51,9 +51,9 @@ During both the 2015 and 2019 federal election, the Conservatives remain to be t
 
 Election surveys always attract social scientists' interests. Scholars try to use surveys to guide predictions of election results. For whom people will vote? It seems to be the ultimate question in any survey study. However, sometimes, people are reluctant to reveal their real picks. Interestingly, they are less likely to lie on who they dislike. That's why this report will take a look at which party people said they would not vote. The results are quite interesting as we can identify some distinctive regional patterns. It is also clear to see how people changed their minds after an election cycle.  The analysis itself may not provide enough information on why the regional discrepancy exists. However, it could remind us that people living in different parts of this country have different needs and concerns. 
 
-In this analysis, we make two kinds of comparison. We first compare the data among provinces in the same election - the 2019 federal election and the 2015 election. Then we examine the change of voters' attitudes from 2015 to 2019. 
+In this analysis, we made two kinds of comparison. We first compared the data among provinces in the same election - the 2019 federal election and the 2015 election. Then we examined the changes of voters' attitudes from 2015 to 2019. 
 
-It is worth mentioning that the result could not serve as evidence to make any causal assertion. Instead, it flags the federal government's policy issues in dealing with regional affairs, and it is inspiring for political scientists working on public policy study. 
+It is worth mentioning that the result could not serve as evidence to make any causal assertion. Instead, it flags the federal government's policy issues in dealing with regional affairs, and it could be inspiring for political scientists working on public policy study. 
 
 ```{r datacleaning, include=FALSE}
 # data cleaning
