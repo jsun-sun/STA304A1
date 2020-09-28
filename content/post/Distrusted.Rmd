@@ -1,5 +1,5 @@
 ---
-title: "The Most Distrusted Political Parties in Canada"
+title: "The Most Distrusted Political Party in Canada"
 author: "Joanne Sun"
 date: "`r Sys.Date()`"
 abstract: "During both the 2015 and 2019 federal election, the Conservatives remain to be the most distrusted party according to the Canadian Election Study data. After four years of Liberals in power, more and more Canadians are dissatisfied with the party's leadership, especially for Albertans and Saskatchewanians."
