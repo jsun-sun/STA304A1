@@ -2,7 +2,7 @@
 title: "The Most Distrusted Political Party in Canada"
 author: "Joanne Sun"
 date: "`r Sys.Date()`"
-abstract: "During both the 2015 and 2019 federal election, the Conservatives remain to be the most distrusted party according to the Canadian Election Study data. After four years of Liberals in power, more and more Canadians are dissatisfied with the party's leadership, especially for Albertans and Saskatchewanians."
+abstract: "During both the 2015 and 2019 federal election, the Conservatives remained to be the most distrusted party according to the Canadian Election Study data. After four years of Liberals in power, more and more Canadians were dissatisfied with the party's leadership, especially for Albertans and Saskatchewanians."
 output: html_document
 bibliography: references.bib
 nocite: | 
@@ -45,7 +45,7 @@ ces2015_combo <- to_factor(ces2015_combo)
 
 # Abstract
 
-During both the 2015 and 2019 federal election, the Conservatives remain to be the most distrusted party according to the Canadian Election Study data. After four years of Liberals in power, more and more Canadians are dissatisfied with the party's leadership, especially for Albertans and Saskatchewanians.
+During both the 2015 and 2019 federal election, the Conservatives remained to be the most distrusted party according to the Canadian Election Study data. After four years of Liberals in power, more and more Canadians were dissatisfied with the party's leadership, especially for Albertans and Saskatchewanians.
 
 # Introduction
 
@@ -107,7 +107,7 @@ ces2015_combo$province <- gsub("nunavut","Nunavut", ces2015_combo$province)
 
 The Canadian Election Study (CES) is a series of large-scale surveys that have been conducted prior, and immediately after, each Canadian federal election since 1965. The purpose of CES is to document the attitudes of Canadians during and after each election. (Stephenson et al., 2020) The dataset used in this article is a subset of CES, which only contains the online survey of the 2019 Canadian federal election and a combination of web and phone surveys from the 2015 election. In both cases, we used only the campaign period data. 
 
-The original dataset is giant with more than 600 variables, each representing a question in the survey. Here we will only focus on responses to the question: are there any parties that you would absolutely not vote for? We filtered out all non-responses and kept the ones with meaningful answers only. The dataset shrank to having only five variables: the year of birth of the respondents, the gender, the education, the province, and the party which the respondent considers will never vote for. Though this article only focuses on the relationship between the province and the voting attitudes, the other variables were included. 
+The original dataset is giant with more than 600 variables, each representing a question in the survey. Here we will only focus on responses to the question: are there any parties that you would absolutely not vote for? We filtered out all non-responses and kept the ones with meaningful answers only. The dataset shrank to having only five variables: the year of birth of the respondents, the gender, the education, the province, and the party which the respondent considers will never vote for. Though this article only focuses on the relationship between the province and the voting attitudes, the other variables were still included. 
 
 
 # Discussion
