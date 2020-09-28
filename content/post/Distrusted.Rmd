@@ -172,7 +172,7 @@ p2019
 
 We have talked a lot about the worrying quality of the datasets so far. The small sample size limits how much credible information we can abstract from the data. Moreover, there are some other issues during the data collection phase. One of them is the different interpretations of survey questions. For example, in the 2019 survey, only people living in Quebec could choose Bloc Quebecois. However, in 2015, this restriction did not apply. In future studies, more careful criteria should be developed to address these issues. Also, a carefully designed weight scheme is necessary to reflect population-wide attitudes better. 
 
-Only web data was included to study the 2019 election. It may raise concerns about the survey's accessibility since people who don't have access to the Internet or a computer will be left out of the sample frame. However, a study suggests that "in countries with high Internet penetration rates" @Sample, web surveys are good enough. 
+Only web data was included to study the 2019 election. It may raise concerns about the survey's accessibility since people who don't have access to the Internet or a computer will be left out of the sample frame. However, @Sample suggest that "in countries with high Internet penetration rates", web surveys should be competitive enough.  
 
 
 # References
